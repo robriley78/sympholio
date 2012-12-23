@@ -1,0 +1,13 @@
+#sidebar-first{
+display: inline-block;
+width: 200px;
+background-color: black;
+vertical-align: top;
+}
+
+#sidebar-second{
+display: inline-block;
+width: 200px;
+background-color: red;
+vertical-align: top;
+}

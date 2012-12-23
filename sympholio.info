@@ -7,9 +7,12 @@ screenshot = screenshot.png
 
 ;Stylesheet declarations
 stylesheets[all][] = css/styles.css
+stylesheets[all][] = css/sidebars.css
+stylesheets[all][] = css/menus.css
 
 ;Region declarations
 regions[header] = Header
+regions[navigation] = Navigation
 regions[highlighted] = Highlighted
 regions[content] = Content
 regions[sidebar_first] = First Sidebar
