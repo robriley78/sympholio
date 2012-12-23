@@ -152,5 +152,9 @@
     <div id="footer"><div class="section">
       <?php print render($page['footer']); ?>
     </div></div> <!-- /.section, /#footer -->
+    
+    <div id="bottom"><div class="section">
+      <?php print render($page['bottom']); ?>
+    </div></div> <!-- /.section, /#bottom -->
 
   </div></div> <!-- /#page, /#page-wrapper -->

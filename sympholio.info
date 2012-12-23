@@ -9,11 +9,13 @@ screenshot = screenshot.png
 stylesheets[all][] = css/styles.css
 
 ;Region declarations
-region[head] = Head
-region[sidebar_first] = First Sidebar
-region[sidebar_second] = Second Si debar
-region[content] = Content
-region[footer] = Footer
+regions[header] = Header
+regions[highlighted] = Highlighted
+regions[content] = Content
+regions[sidebar_first] = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[footer] = Footer
+regions[bottom] = Bottom
 
 ;Features
 features[] = logo
