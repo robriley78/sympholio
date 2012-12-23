@@ -1,0 +1,26 @@
+;Basics
+name = Sympholio
+description = A simple, responsive Drupal 7 theme for portfolio sites.
+core = 7.x
+engine = phptemplate
+screenshot = screenshot.png
+
+;Stylesheet declarations
+stylesheets[all][] = css/styles.css
+
+;Region declarations
+region[head] = Head
+region[sidebar_first] = First Sidebar
+region[sidebar_second] = Second Si debar
+region[content] = Content
+region[footer] = Footer
+
+;Features
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = node_user_picture
+features[] = comment_user_picture 􏰘􏰄 features[] = search
+features[] = favicon
+features[] = primary_links
+features[] = secondary_links
