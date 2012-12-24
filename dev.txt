@@ -1,0 +1,6 @@
+1) SASS.
+2) All region sizes, responsiveness.
+3) Thorough media queries.
+4) All menus primary and secondary - normal and mobile versions ref. guardian.co.uk on mobile.
+5) Front page slideshow desktop. Mobile alternative. Responds to swipe gesture.
+6) Jquery scroll option (as feature?)
